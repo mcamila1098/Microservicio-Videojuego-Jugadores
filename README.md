@@ -4,3 +4,4 @@ Este proyecto es una aplicación web desarrollada con Spring Boot y Java 21, que
 Este microservicio se encargará de la gestión de de administrar los perfiles de los jugadores que participan en la plataforma
 de videojuegos.
 
+Documentación de API en el link http://localhost:6090/swagger/index.html 
